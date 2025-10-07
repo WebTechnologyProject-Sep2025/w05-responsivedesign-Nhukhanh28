@@ -1,0 +1,20 @@
+/*
+filename: lab05-responsive.html
+author: Phan Nguyen Nhu Khanh
+created: 7/10/2025
+last modified: 7/10/2025
+*/
+
+/*main.css*/
+body {
+    font-family: arial;
+}
+
+article {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+header {
+    background-image: url ()
+}
