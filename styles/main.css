@@ -6,13 +6,11 @@ last modified: 7/10/2025
 */
 
 /*main.css*/
-body {
-    font-family: arial;
-}
+body {font-family: arial;}
 
 article {
     max-width: 1220px;
-    margin: 0 auto; 
+    margin: 0 auto;
 }
 
 header {
@@ -28,7 +26,7 @@ header h1 {
     letter-spacing: 4px;
     font-size: 72px;
     padding-top: .5em;
-    padding-left: .5em;
+    padding-top: .5em;
 }
 
 nav ul {
@@ -45,13 +43,14 @@ nav ul li {
 nav ul li a {
     display: block;
     font-weight: bold;
-    padding: 625em 3.5em; /* 10px 15px */
+    padding: .625em 3.5em; /* 10px 15px */
     text-decoration: none;
     color: #000;
     border-right: 1px solid #bababa;
 }
 
-img {max-width: 100%;}
+img {max-width: 100%}
+
 #section1, #section2, #section3 {
     float: left;
     width: 30%;
@@ -59,14 +58,12 @@ img {max-width: 100%;}
     margin: 1em 1em 1em 1em;
 }
 
-footer {clear: both;}
+footer {clear:both}
 
 footer h3 {
     font-family: 'Love Ya Like A Sister', arial;
-    background-color: #94d4ff;
+    background-color:#94d4ff;
     padding: .5em 0 .5em .5em;
     background-repeat: repeat-x;
     background-position: bottom;
 }
-
-
